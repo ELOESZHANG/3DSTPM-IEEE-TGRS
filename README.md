@@ -9,4 +9,4 @@ Infrared small target detection is a critical component of infrared search and t
 The code will be available after the article is accepted.
 ## Results
 ### IoU and F-measure
-![image]()
+![image](https://github.com/ELOESZHANG/3DSTPM-IEEE-TGRS/blob/main/results-1.png)

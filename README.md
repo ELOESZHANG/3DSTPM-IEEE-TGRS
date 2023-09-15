@@ -11,5 +11,6 @@ The code will be available after the article is accepted.
 ### IoU and F-measure
 ![image](https://github.com/ELOESZHANG/3DSTPM-IEEE-TGRS/blob/main/results-1.png)
 ### AUC
+![image](https://github.com/ELOESZHANG/3DSTPM-IEEE-TGRS/blob/main/results-3.png)
 ### BSF and SCRG
 ![image](https://github.com/ELOESZHANG/3DSTPM-IEEE-TGRS/blob/main/result-2.png)
